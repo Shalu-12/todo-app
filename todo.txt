@@ -1,3 +1,4 @@
 My Todo App Started
 1. Learn Git
 2. Push code to GitHub
+3. Learn branching
